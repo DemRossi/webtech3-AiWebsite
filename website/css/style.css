@@ -38,6 +38,12 @@ header{
     font-size: 1.4em;
     transition: all 0.4s;
 }
+.ptext{
+    position: absolute;
+    top: 100px;
+    left: 150px;
+    font-size: 2em;
+}
 .afbeelding1{
     width: 100%;
     height: 100%;
